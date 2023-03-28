@@ -1,5 +1,4 @@
 import java.util.Random;
-
 public class otpGenerator{
     private static final int OTP_LENGTH =4;
 
